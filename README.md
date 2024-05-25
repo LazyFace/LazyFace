@@ -2,7 +2,7 @@
 
 **Unity Developer**
 
-Hi! I'm **Santiago Díaz**, a Colombian game developer with experience in Unity Engine. I am a passionate Video Game Developer with a deep love for video games and technology, aiming to be a great Gameplay Programmer.
+Hi! I'm **Santiago Díaz**, a Colombian game developer with experience in Unity Engine. I am a passionate Video Game Developer that loves video games and technology, aiming to be a great Programmer.
 
 ## 🧑‍💻 My Tech Experience 💼
 
