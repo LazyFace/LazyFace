@@ -14,6 +14,7 @@ I've worked as a Game Developer for a while, creating games on multiple platform
 
 ## Projects I've Worked On:
 - [Death Hunting Survival](https://lazyface.itch.io/death-hunting-survival)
+- [FlightFeast](https://lazyface.itch.io/flightfeast)
 - [Cabin Crew Simulator Trainer VR](https://www.youtube.com/watch?v=YM21cwCaAeM)
 
 ## Languages and Tools:
