@@ -6,7 +6,7 @@ Hi! I'm **Santiago Díaz**, a Colombian game developer with experience in Unity 
 
 ## 🧑‍💻 My Tech Experience 💼
 
-I've worked as a Game Developer for a while, creating games on multiple platforms such as Windows, Mac, and WebGL. I have experience in the development of virtual reality, augmented reality, desktop, and mobile applications. I have focused on developing skills in languages such as C# and JavaScript, which have enabled me to tackle challenging projects and create solutions to the challenges I have been given. I have also worked with tools like OpenXR, Vuforia, and AR Foundation, and have managed the backend part using Firebase.
+I've worked as a Game Developer for a while, creating games on multiple platforms such as Windows, Oculus, and WebGL. I have experience in the development of virtual reality, augmented reality, desktop, and mobile applications. I have focused on developing skills in languages such as C# and JavaScript, which have enabled me to tackle challenging projects and create solutions to the challenges I have been given. I have also worked with tools like OpenXR, Vuforia, and AR Foundation, and have managed the backend part using Firebase.
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sdiazospina-gamedeveloper)
